@@ -81,6 +81,15 @@ flowchart LR
 
 See [ARCHITECTURE.md](./ARCHITECTURE.md) for the reward table and the update rule.
 
+## Contributors
+
+A group project for the DAM course. Handles are GitLab, where the coursework was hosted.
+
+- **Daniel Adanegbe** (@dadanegbe) — lead
+- **Yeray Yannel** (@yerayannel333)
+- **Andres Rincon** (@barincon)
+- **Pau Martin** (@martin.peralta.pau)
+
 ## License
 
 PolyForm Noncommercial 1.0.0 ([LICENSE](./LICENSE)). Personal, non-commercial use only.
