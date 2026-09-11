@@ -50,7 +50,7 @@ repo holds a lightly-trained table — delete it to start the agent from zero.
 Needs JDK 24 and Maven.
 
 ```bash
-mvn -q compile exec:java -Dexec.mainClass=cat.copernic.proyectoar.Main
+mvn -q compile exec:java -Dexec.mainClass=com.pianotiles.Main
 ```
 
 The sketch opens full-screen. Processing pulls in JOGL/GlueGen native libraries through Maven on

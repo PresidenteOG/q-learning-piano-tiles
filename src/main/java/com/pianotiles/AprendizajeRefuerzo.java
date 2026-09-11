@@ -1,4 +1,4 @@
-package cat.copernic.proyectoar;
+package com.pianotiles;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

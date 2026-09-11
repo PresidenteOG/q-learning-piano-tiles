@@ -1,4 +1,4 @@
-package cat.copernic.proyectoar;
+package com.pianotiles;
 
 import java.util.ArrayList;
 
@@ -40,7 +40,7 @@ public class Main extends PApplet {
     int btnSalirX, btnSalirY;
 
     public static void main(String[] args) {
-        PApplet.main("cat.copernic.proyectoar.Main");
+        PApplet.main("com.pianotiles.Main");
     }
 
     // Configuración inicial de la ventana

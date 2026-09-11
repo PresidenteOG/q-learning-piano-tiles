@@ -1,4 +1,4 @@
-package cat.copernic.proyectoar;
+package com.pianotiles;
 import processing.core.PApplet;
 /**
  * Clase que representa una tecla que cae en pantalla dentro del juego.
