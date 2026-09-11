@@ -56,6 +56,12 @@ mvn -q compile exec:java -Dexec.mainClass=cat.copernic.proyectoar.Main
 The sketch opens full-screen. Processing pulls in JOGL/GlueGen native libraries through Maven on
 first build, so the first compile takes a moment.
 
+## Screenshots
+
+![Gameplay with the Q-learning control panel: state/action table, alpha/gamma/epsilon live](./docs/screenshots/gameplay.png)
+:---:
+Mid-run — the falling tiles on the left, the agent's Q-table and knobs on the right
+
 ## Architecture
 
 ```mermaid
