@@ -11,6 +11,8 @@ flowchart TB
     Agent <-->|"load on startup, save on Enter"| QT["qtable.txt"]
 ```
 
+![q-learning-piano-tiles architecture: Main creates falling tiles and each frame asks the AprendizajeRefuerzo agent for a state, action, reward and next state, the agent replies press or wait, and the Q-table is loaded from and saved to qtable.txt](./docs/architecture.png)
+
 ## The loop
 
 Every frame, for every tile that is still active (`Main.actualizarYDibujarTeclas`):

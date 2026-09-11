@@ -1,3 +1,5 @@
+![q-learning-piano-tiles](./docs/banner.png)
+
 # Q-Learning Piano Tiles
 
 ![Java](https://img.shields.io/badge/Java-24-007396?style=flat&logo=openjdk&logoColor=white)
